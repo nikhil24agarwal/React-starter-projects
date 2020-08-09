@@ -1,0 +1,2 @@
+They are starter project for learning React covers all topics. I have done it only using function components as they are more easy to understand for others as compare to class components.
+You can run these projects by simply cloning them and running npm install command in your terminal (requirement you must have nodejs installed).
