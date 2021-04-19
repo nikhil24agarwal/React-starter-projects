@@ -2,3 +2,6 @@ keeper_App/node_modules
 keeper_App/package-lock.json
 todo-list/node_modules
 todo-list/package-lock.json
+simple-crud-app/server/node_modules
+simple-crud-app/client/node_modules
+
